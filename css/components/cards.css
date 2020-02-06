@@ -1,0 +1,47 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  color:#2E5077;
+  padding: 15px;
+}
+
+.title {
+  color: #2E5077;
+}
+
+
+#submit-card {
+  height: 300px;
+  width: 250px;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+#feedback-card {
+  height: 300px;
+  width: 250px;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+#enjoy-card {
+  height: 300px;
+  width: 250px;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.cards img {
+  height:80px;
+  padding: 20px;
+}
+
+.cards h2 {
+  font-size: 18px;
+}
+
+.cards p {
+  font-size: 14px;
+  padding: 5px;
+
+}
