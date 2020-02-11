@@ -8,4 +8,5 @@
 
 .btn-blue:hover {
   background: #5d92a2;
+  transition: 0.3s;
 }
